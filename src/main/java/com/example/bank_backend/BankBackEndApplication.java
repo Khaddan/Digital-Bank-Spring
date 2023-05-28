@@ -18,8 +18,10 @@ import java.util.stream.Stream;
 public class BankBackEndApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(BankBackEndApplication.class, args);
     }
+
 
     @Bean
     CommandLineRunner commandLineRunner(BankAccountService bankAccountService){
@@ -53,5 +55,7 @@ public class BankBackEndApplication {
             }
         };
     }
+
+
 }
 
