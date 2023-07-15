@@ -8,4 +8,6 @@
 # Customer
 ![ed4](https://github.com/Khaddan/Digital-Bank-Spring/assets/97314637/98af612c-ddff-4a60-bb43-efb1e4462891)
 ![ED5](https://github.com/Khaddan/Digital-Bank-Spring/assets/97314637/1981b4b8-36bb-495e-acd5-a4375710f237)
+#Swagger
+![swagger](https://github.com/Khaddan/Digital-Bank-Spring/assets/97314637/fe31d63f-ab9d-4533-bef1-2ed8e555fbe4)
 
